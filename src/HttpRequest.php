@@ -24,10 +24,9 @@ class HttpRequest
      * HttpRequest constructor.
      * @param string $baseUri
      */
-    public function __construct(string $baseUri = '')
+    public function __construct()
     {
         $this->httpClient = new Client();
-        $this->baseUri = $baseUri;
     }
 
     /**
