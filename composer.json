@@ -1,6 +1,6 @@
 {
-  "name": "tiger/httprequest",
-  "description": "PHP Class HttpRequest for the Tiger Framework",
+  "name": "tigra/httprequest",
+  "description": "PHP Class HttpRequest for the Tigra Framework",
   "type": "library",
   "license": "GPL-3.0-or-later",
   "authors": [
@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Tiger\\": "src/"
+      "Tigra\\": "src/"
     }
   }
 }

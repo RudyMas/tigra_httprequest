@@ -1,6 +1,6 @@
 <?php
 
-namespace Tiger;
+namespace Tigra;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
@@ -13,7 +13,7 @@ use Psr\Http\Message\ResponseInterface;
  * @copyright 2022, rmsoft.be. (http://www.rmsoft.be/)
  * @license https://opensource.org/licenses/GPL-3.0 GNU General Public License, version 3 (GPL-3.0)
  * @version 7.4.1.0
- * @package Tiger
+ * @package Tigra
  */
 class HttpRequest
 {
